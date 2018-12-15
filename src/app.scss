@@ -1,0 +1,11 @@
+@import './design/reset';
+@import './design/design';
+
+body {
+    background: $backgroundColor;
+    color: $color;
+
+    h2 {
+        font-size:3em;
+    }
+}
